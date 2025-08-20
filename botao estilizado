@@ -1,0 +1,19 @@
+<html>
+    <body>
+  <a href="https://br.pinterest.com/">
+    <button class="botao">clique aqui </button>
+  </a>
+    </body>
+</html>
+<body>
+</body>
+<style> 
+.botao{ 
+  background-color: palevioletred;
+  color:beige;
+  border:none;
+cursor:crosshair;
+front: size 15px;
+transition:0,7s;
+}
+</style>
